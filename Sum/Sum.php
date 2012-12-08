@@ -8,4 +8,11 @@
 
 class Sum {
 	
+	public function Sum( $a = null, $b = null ){
+		
+		$this->a = $a;
+		$this->b = $b;
+		
+	}
+	
 }?>
