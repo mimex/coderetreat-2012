@@ -15,4 +15,9 @@ class Sum {
 		
 	}
 	
+	public function result(){
+		return
+			$this->a + $this->b;
+	}
+	
 }?>
